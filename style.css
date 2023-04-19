@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 600px;
+  width: 600px;
+  position: relative;
+}
+
+.area {
+  position: absolute;
+  margin-left: 35%;
+  margin-top: 19%;
+  width: 520px;
+  height: 320px;
+  border-radius: 30px;
+}
+.area .zone1 {
+  margin: 0px auto;
+  width: 70%;
+  height: 100px;
+}
+.area .zone2 {
+  margin: 0px auto;
+}
+.area ul {
+  margin: auto auto;
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */
